@@ -1,0 +1,14 @@
+D:\唐老师课堂代码\CSharp入门教程\Lesson_20练习题\bin\Debug\net8.0\Lesson_20练习题.exe
+D:\唐老师课堂代码\CSharp入门教程\Lesson_20练习题\bin\Debug\net8.0\Lesson_20练习题.deps.json
+D:\唐老师课堂代码\CSharp入门教程\Lesson_20练习题\bin\Debug\net8.0\Lesson_20练习题.runtimeconfig.json
+D:\唐老师课堂代码\CSharp入门教程\Lesson_20练习题\bin\Debug\net8.0\Lesson_20练习题.dll
+D:\唐老师课堂代码\CSharp入门教程\Lesson_20练习题\bin\Debug\net8.0\Lesson_20练习题.pdb
+D:\唐老师课堂代码\CSharp入门教程\Lesson_20练习题\obj\Debug\net8.0\Lesson_20练习题.GeneratedMSBuildEditorConfig.editorconfig
+D:\唐老师课堂代码\CSharp入门教程\Lesson_20练习题\obj\Debug\net8.0\Lesson_20练习题.AssemblyInfoInputs.cache
+D:\唐老师课堂代码\CSharp入门教程\Lesson_20练习题\obj\Debug\net8.0\Lesson_20练习题.AssemblyInfo.cs
+D:\唐老师课堂代码\CSharp入门教程\Lesson_20练习题\obj\Debug\net8.0\Lesson_20练习题.csproj.CoreCompileInputs.cache
+D:\唐老师课堂代码\CSharp入门教程\Lesson_20练习题\obj\Debug\net8.0\Lesson_20练习题.dll
+D:\唐老师课堂代码\CSharp入门教程\Lesson_20练习题\obj\Debug\net8.0\refint\Lesson_20练习题.dll
+D:\唐老师课堂代码\CSharp入门教程\Lesson_20练习题\obj\Debug\net8.0\Lesson_20练习题.pdb
+D:\唐老师课堂代码\CSharp入门教程\Lesson_20练习题\obj\Debug\net8.0\Lesson_20练习题.genruntimeconfig.cache
+D:\唐老师课堂代码\CSharp入门教程\Lesson_20练习题\obj\Debug\net8.0\ref\Lesson_20练习题.dll
